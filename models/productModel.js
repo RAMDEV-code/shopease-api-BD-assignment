@@ -28,6 +28,12 @@ const products = [
     name: 'Product 5',
     manufacturer: "New Balance",
     size: 44
+  },
+  {
+    id: 6,
+    name: 'Product 6',
+    manufacturer: "Nike",
+    size: 44
   }
 ];
 
